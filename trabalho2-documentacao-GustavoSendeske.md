@@ -3,8 +3,6 @@
 Disciplina: Redes de Computadores
 Curso: Engenharia de Computação / Elétrica
 
-[//]: # Nome: Allan de Mello Ribeiro
-[//]: # RA: 2037807
 Nome: Gustavo Acco Sendeske
 RA: 1689347
 
